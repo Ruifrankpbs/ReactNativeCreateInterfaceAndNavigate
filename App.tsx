@@ -31,7 +31,7 @@ export default function App() {
       translucent
       />
       
-     { !fontCarregada ? <Groups/> : <Loading/>} 
+     { fontCarregada ? <Groups/> : <Loading/>} 
     </ThemeProvider>
     
   );
