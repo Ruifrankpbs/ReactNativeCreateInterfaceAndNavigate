@@ -1,3 +1,5 @@
+/* componente de Loading */
+
 import { Container, LoadIndicator } from "./styles";
 
 export function Loading(){

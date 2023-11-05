@@ -1,3 +1,5 @@
+
+/* Arquivo de configuração do estilo do indicador de carregamento */
 import  styled  from "styled-components/native";
 
 export const Container = styled.View`
